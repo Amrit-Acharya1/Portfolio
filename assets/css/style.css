@@ -614,7 +614,7 @@ section {
   margin-bottom: 20px;
 }
 .color1{
-  background: linear-gradient(#76d6b6,#ea9acb);
+  background: linear-gradient(#ea9acb,#76d6b6);
 }
 .services .icon {
   float: left;
@@ -666,7 +666,7 @@ section {
   padding-bottom: 130px;
 }
 .color2{
-  background: linear-gradient(#ea9acb,#76d6b6);
+  background: linear-gradient(#76d6b6,#ea9acb);
 }
 .contact .info {
   padding: 30px;
